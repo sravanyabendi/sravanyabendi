@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanyabendi&label=Profile%20views&color=0e75b6&style=flat" alt="sravanyabendi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanyabendi" alt="sravanyabendi" /></a> </p>
-
 - 🔭 I’m currently working on [Hostel Management System](https://github.com/sravanyabendi/HOSTEL-MANAGEMENT-SYSTEM)
 
 - 🌱 I’m currently learning **JavaScript, Bootstrap**
